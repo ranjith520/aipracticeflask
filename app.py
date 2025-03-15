@@ -1,15 +1,14 @@
 import streamlit as st
 
 st.title("Hello Streamlit-er 👋")
+st.caption(":rainbow[Enjoy building Google IDX Platform]")
 st.markdown(
     """ 
     This is a playground for you to try Streamlit and have fun. 
 
-    **There's :rainbow[so much] you can build!**
+    **There's so much] you can build!**
+    "Now update the app.py to customize your code/app"
     
-    We prepared a few examples for you to get started. Just 
-    click on the buttons above and discover what you can do 
-    with Streamlit. 
     """
 )
 
